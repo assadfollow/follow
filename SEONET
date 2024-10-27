@@ -39,7 +39,7 @@
 	<meta name="twitter:description" content="أكثر من 50 خبير سيو قاموا بتكوين فريق عمل سيو فولو لتقديم خدمة SEO متكاملة بأرخص الأسعار للمتاجر الإلكترونية" />
 	<meta name="twitter:image" content="https://res.cloudinary.com/dhhn08v44/image/upload/v1674316374/%D9%81%D8%A7%D9%81%D9%8A%D9%83%D9%88%D9%86_ycpkdy.png" />
 	<meta name="twitter:site" content="@seofollow" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://seofollow.online/","url":"https://seofollow.online/","name":"Your gateway to the success of your online store - سيو فولو","isPartOf":{"@id":"https://seofollow.online/#website"},"about":{"@id":"https://seofollow.online/#organization"},"datePublished":"2022-05-22T05:41:38+00:00","dateModified":"2023-03-26T12:52:08+00:00","description":"خبراء تحسين محركات البحث الأفضل في الوطن العربي, فريق تسويق متكامل مكوّن من أفضل خبراء التسويق لزيادة مبيعات المتاجر الإلكترونية.","breadcrumb":{"@id":"https://seofollow.online/#breadcrumb"},"inLanguage":"ar","potentialAction":[{"@type":"ReadAction","target":["https://seofollow.online/"]}]},{"@type":"BreadcrumbList","@id":"https://seofollow.online/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية"}]},{"@type":"WebSite","@id":"https://seofollow.online/#website","url":"https://seofollow.online/","name":"زد","description":"المنصة الأشمل لتجارتك الحديثة","publisher":{"@id":"https://seofollow.online/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://seofollow.online/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"ar"},{"@type":"Organization","@id":"https://seofollow.online/#organization","name":"سيوفولو","url":"https://seofollow.online/","logo":{"@type":"ImageObject","inLanguage":"ar","@id":"https://seofollow.online/#/schema/logo/image/","url":"https://seofollow.online/wp-content/uploads/2022/07/zid-logo.svg","contentUrl":"https://seofollow.online/wp-content/uploads/2022/07/zid-logo.svg","width":153,"height":81,"caption":"زد"},"image":{"@id":"https://seofollow.online/#/schema/logo/image/"},"sameAs":["https://twitter.com/","https://www.instagram.com/seofollow.store/","https://www.snapchat.com/","https://www.youtube.com/","https://www.linkedin.com/"]}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://seofollow.online/","url":"https://seofollow.online/","name":"Your gateway to the success of your online store - سيو فولو","isPartOf":{"@id":"https://seofollow.online/#website"},"about":{"@id":"https://seofollow.online/#organization"},"datePublished":"2022-05-22T05:41:38+00:00","dateModified":"2023-03-26T12:52:08+00:00","description":"خبراء Search Engine Optimization الأفضل في الوطن العربي, فريق تسويق متكامل مكوّن من أفضل خبراء التسويق لزيادة مبيعات المتاجر الإلكترونية.","breadcrumb":{"@id":"https://seofollow.online/#breadcrumb"},"inLanguage":"ar","potentialAction":[{"@type":"ReadAction","target":["https://seofollow.online/"]}]},{"@type":"BreadcrumbList","@id":"https://seofollow.online/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية"}]},{"@type":"WebSite","@id":"https://seofollow.online/#website","url":"https://seofollow.online/","name":"زد","description":"المنصة الأشمل لتجارتك الحديثة","publisher":{"@id":"https://seofollow.online/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://seofollow.online/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"ar"},{"@type":"Organization","@id":"https://seofollow.online/#organization","name":"سيوفولو","url":"https://seofollow.online/","logo":{"@type":"ImageObject","inLanguage":"ar","@id":"https://seofollow.online/#/schema/logo/image/","url":"https://seofollow.online/wp-content/uploads/2022/07/zid-logo.svg","contentUrl":"https://seofollow.online/wp-content/uploads/2022/07/zid-logo.svg","width":153,"height":81,"caption":"زد"},"image":{"@id":"https://seofollow.online/#/schema/logo/image/"},"sameAs":["https://twitter.com/","https://www.instagram.com/seofollow.store/","https://www.snapchat.com/","https://www.youtube.com/","https://www.linkedin.com/"]}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -1161,11 +1161,11 @@ text-fill-color: transparent;
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-03d8814 txt-grad1 elementor-widget elementor-widget-heading" data-id="03d8814" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">معك خطوة بخطوة</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">With you step by step</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-da0ee47 elementor-widget elementor-widget-heading" data-id="da0ee47" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">نجاحك من نجاحنا</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">Your success is our success</h2>		</div>
 				</div>
 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-bc5e5c5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bc5e5c5" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
@@ -1179,7 +1179,7 @@ text-fill-color: transparent;
 						<div class="elementor-icon-box-content">
 				<h3 class="elementor-icon-box-title">
 					<span>
-						تحسين محركات البحث					</span>
+						Search Engine Optimization					</span>
 				</h3>
 									<p class="elementor-icon-box-description">
 						عن طريق خبراء الـSEO لدينا نساعدك على ظهور منتجات متجرك في أول نتائج البحث المجانية على محرك البحث جوجل للحصول على زيارات ومبيعات بشكل يومي ومجاني.					</p>
