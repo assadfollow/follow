@@ -1789,7 +1789,7 @@ text-fill-color: transparent;
 						<span class="elementor-button-content-wrapper">
 							<span class="elementor-button-icon elementor-align-icon-right">
 				<svg xmlns="http://www.w3.org/2000/svg" width="21" height="16" viewBox="0 0 21 16" fill="none"><path d="M19.8332 2L6.99984 14.8333L1.1665 9" stroke="currentColor" stroke-width="2.33333" stroke-linecap="round" stroke-linejoin="round"></path></svg>			</span>
-						<span class="elementor-button-text">أوافق</span>
+						<span class="elementor-button-text">I agree</span>
 		</span>
 					</a>
 		</div>
